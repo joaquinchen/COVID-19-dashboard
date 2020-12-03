@@ -1,0 +1,27 @@
+{
+  "name": "covid-19-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@amcharts/amcharts4": "^4.10.0",
+    "@amcharts/amcharts4-geodata": "^4.1.17",
+    "axios": "^0.20.0",
+    "core-js": "^3.6.5",
+    "countup.js": "^2.0.7",
+    "vue": "^2.6.11",
+    "vue-countup-v2": "^4.0.0",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
